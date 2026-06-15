@@ -1,8 +1,8 @@
-# 🤖 AI Career Mentor Agent
+#  AI Career Mentor Agent
 
 An Agentic AI-powered career assistant that analyzes resumes against job descriptions, identifies skill gaps, suggests improvements, generates personalized learning roadmaps, and creates interview questions.
 
-## 🚀 Features
+##  Features
 
 ### Resume Analysis
 
@@ -32,7 +32,7 @@ An Agentic AI-powered career assistant that analyzes resumes against job descrip
 
 ---
 
-## 🏗️ Architecture
+##  Architecture
 
 ```text
 User
@@ -55,7 +55,7 @@ Results Dashboard
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Component              | Technology    |
 | ---------------------- | ------------- |
@@ -68,7 +68,7 @@ Results Dashboard
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 career-agent/
@@ -84,7 +84,7 @@ career-agent/
 
 ---
 
-## ⚙️ Installation
+##  Installation
 
 ### Clone Repository
 
@@ -121,7 +121,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🔑 Environment Variables
+##  Environment Variables
 
 Create a `.env` file:
 
@@ -133,7 +133,7 @@ Get your API key from Google AI Studio.
 
 ---
 
-## ▶️ Run Application
+## Run Application
 
 ```bash
 streamlit run app.py
@@ -147,7 +147,7 @@ http://localhost:8501
 
 ---
 
-## 📋 Usage
+##  Usage
 
 1. Upload your resume (PDF)
 2. Paste a job description
@@ -161,7 +161,7 @@ http://localhost:8501
 
 ---
 
-## 🎯 Future Enhancements
+##  Future Enhancements
 
 * ChromaDB Vector Database
 * RAG-based Knowledge Retrieval
@@ -175,7 +175,7 @@ http://localhost:8501
 
 ---
 
-## 📸 Example Use Cases
+##  Example Use Cases
 
 ### Students
 
@@ -196,7 +196,7 @@ http://localhost:8501
 
 ---
 
-## 🌟 Agentic AI Concepts Demonstrated
+##  Agentic AI Concepts Demonstrated
 
 * Large Language Models (LLMs)
 * Prompt Engineering
@@ -207,7 +207,7 @@ http://localhost:8501
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 Nikhil Vanka
 
